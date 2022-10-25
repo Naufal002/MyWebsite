@@ -1,0 +1,16 @@
+body{
+    background-image: url("C:/Users/Administrator/Documents/Gabut_website/assets/wallpaper_1.png");
+}
+
+#first_font{
+    font-family: "IBM Plex Mono", sans-serif;
+    font-size: 60px;
+    color: #ffffff;
+
+}#first_button{
+    background-color: white;
+
+}#seccond_button{
+    background-color: white;
+
+}
